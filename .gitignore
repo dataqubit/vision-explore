@@ -1,3 +1,6 @@
+# config file
+config.py
+
 # macOS specific ignores
 .DS_Store
 .AppleDouble
